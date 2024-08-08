@@ -159,7 +159,7 @@ body {
 .graphic {
   grid-area: graphic;
   width: 354px;
-  background-image: url('../public/graphic-design.svg');
+  background-image: url('../public/images/graphic-design.svg');
   background-repeat: no-repeat;
   background-position: top 24px right 24px;
   background-color: var(--Graphic-Design-color);
@@ -174,7 +174,7 @@ body {
 .uı-ux {
   grid-area: uıux;
   width: 164px;
-  background-image: url('../public/uıux.svg');
+  background-image: url('../public/images/uıux.svg');
   background-repeat: no-repeat;
   background-position: top 24px right 24px;
   background-color: var(--UI-UX-color);
@@ -189,7 +189,7 @@ body {
 .apps {
   grid-area: apps;
   width: 164px;
-  background-image: url('../public/apps.svg');
+  background-image: url('../public/images/apps.svg');
   background-repeat: no-repeat;
   background-position: top 24px right 24px;
   background-color: var(--Apps-color);
@@ -204,7 +204,7 @@ body {
 .photography {
   grid-area: photography;
   width: 354px;
-  background-image: url('../public/photography.svg');
+  background-image: url('../public/images/photography.svg');
   background-repeat: no-repeat;
   background-position: top 24px right 24px;
   background-color: var(--Photography-color);
@@ -219,7 +219,7 @@ body {
 .ıllustrations {
   grid-area: ıllustrations;
   width: 354px;
-  background-image: url('../public/illustrations.svg');
+  background-image: url('../public/images/illustrations.svg');
   background-repeat: no-repeat;
   background-position: top 24px right 24px;
   background-color: var(--Illustrations-color);
@@ -234,7 +234,7 @@ body {
 .motion {
   grid-area: motion;
   width: 354px;
-  background-image: url('../public/motion.svg');
+  background-image: url('../public/images/motion.svg');
   background-repeat: no-repeat;
   background-position: top 24px right 24px;
   background-color: var(--motion-color);
