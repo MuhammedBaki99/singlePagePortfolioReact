@@ -17,7 +17,7 @@ function App() {
 function HeaderDiv() {
   return (
     <div className="header">
-      <img src="../public/images/logo.svg" alt="" />
+      <img src="images/logo.svg" alt="" />
       <a href="#">Ücretsiz Danışmanlık</a>
     </div>
   )
@@ -60,7 +60,7 @@ function Nav(){
 function About(){
   return(
     <div className="about">
-      <img src="../public/images/about-img.png" alt="" />
+      <img src="images/about-img.png" alt="" />
       <div className="about-text">
         <h2>Ben Amy ve bir sonraki projenizde çalışmayı çok isterim</h2>
         <p>Güzel tasarım çözümleri yaratmak için başkalarıyla birlikte çalışmayı seviyorum. Marka illüstrasyonlarından eksiksiz mobil uygulamalara kadar her şeyi tasarladım. Ayrıca kamera konusunda da becerikliyimdir!</p>
@@ -87,7 +87,7 @@ function Rezervation(){
 function Footer(){
   return (
     <div className="footer">
-      <img src="../public/images/logo.svg" alt="" />
+      <img src="images/logo.svg" alt="" />
       <a href="#">Ücretsiz Danışmanlık</a>
     </div>
   )
